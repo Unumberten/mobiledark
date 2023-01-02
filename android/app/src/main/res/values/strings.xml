@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile UI Template</string>
+    <string name="facebook_app_id">415918476419712</string>
+    <string name="fb_login_protocol_scheme">fb415918476419712</string>
+</resources>
